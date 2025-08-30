@@ -18,5 +18,4 @@
 git clone https://github.com/mahdisesmaeelian/ReactMatrix.git
 cd ReactMatrix
 npm start
-yarn start
 
